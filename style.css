@@ -1,7 +1,18 @@
-body    {
+body {
     font-family: 'Poppins', sans-serif;
+    background-color:  rgba(112, 21, 116, 0.5);
+    text-align: center;
 }
 
-ul li {
+ul.ingredients li {
     font-style: italic;
+}
+
+img {
+    width: 400px;
+    border-radius: 15px;
+}
+
+h1 {
+    font-size:  36px
 }
